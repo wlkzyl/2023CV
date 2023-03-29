@@ -25,3 +25,57 @@ Group X/document：2023CV_G01_汇报总结.PPTX + 2023CV_G01_大作业.docx
 
 第五组：机器人定位导航
 
+
+#  课堂作业汇报时间节点
+ 
+第一次大作业（  03/15 ）
+
+   演示系统搭建
+
+第二次大作业（  04/19 ）
+
+   1、研究现状
+
+
+  2、问题定义
+
+
+  3、数据采集
+
+  
+第三次大作业（  05/10 ）
+
+ 
+  4、算法模块
+
+ 
+ 
+  
+第四次大作业（  05/31 ）
+
+  
+  5、原型系统
+
+
+  6、实验结果
+
+ 
+
+#  参考链接
+
+显著物体检测：https://paperswithcode.com/task/salient-object-detection 
+
+疲劳度检测：
+
+人体动作识别：https://github.com/liutiel/AICoacher
+
+车道线检测：https://github.com/liuruijin17/LSTR
+
+Adaboost： https://cloud.tencent.com/developer/article/1749453
+
+
+
+  
+  
+ 
+
