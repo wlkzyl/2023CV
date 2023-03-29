@@ -65,11 +65,13 @@ Group X/document：2023CV_G01_汇报总结.PPTX + 2023CV_G01_大作业.docx
 
 显著物体检测：https://paperswithcode.com/task/salient-object-detection 
 
-疲劳度检测：
+疲劳度检测：见目录下代码
 
 人体动作识别：https://github.com/liutiel/AICoacher
 
 车道线检测：https://github.com/liuruijin17/LSTR
+
+机器人定位导航：http://wiki.ros.org/cn
 
 Adaboost： https://cloud.tencent.com/developer/article/1749453
 
